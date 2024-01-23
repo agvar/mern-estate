@@ -44,10 +44,6 @@ export default function SignIn() {
       
     }
     }
-      
-
- 
-
  console.log(formData);
 
   return (
